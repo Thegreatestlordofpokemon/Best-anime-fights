@@ -1,0 +1,28 @@
+:root{
+    --primary:#eb7760;
+    --secondary:#2737ae;
+}
+
+
+
+
+
+body{
+    margin: 0;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium';
+    font-variant: small-caps;
+    background:linear-gradient(135deg,var(--primary),var(--secondary));
+}
+  .Naruto{
+    
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+    font-variant: small-caps;
+    color: turquoise;
+    background-color: rgb(177, 65, 225);
+  }
+
+ 
